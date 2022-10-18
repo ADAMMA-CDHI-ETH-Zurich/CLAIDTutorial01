@@ -30,4 +30,5 @@ int main()
 
     // Starting CLAID Runtime, which automatically will initialize all Modules.
     CLAID_RUNTIME->start();
+    return 0;
 }
